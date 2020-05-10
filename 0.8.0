@@ -1,0 +1,12 @@
+Collecting berserk
+  Using cached https://files.pythonhosted.org/packages/db/be/d27b949da9011597800ce78e4751dc752b502288d65f7461a110f71ffc97/berserk-0.8.0-py2.py3-none-any.whl
+Requirement already satisfied: ndjson~=0.2 in c:\users\pitma\appdata\local\programs\python\python37\lib\site-packages (from berserk) (0.3.1)
+Requirement already satisfied: requests~=2.20 in c:\users\pitma\appdata\local\programs\python\python37\lib\site-packages (from berserk) (2.23.0)
+Requirement already satisfied: deprecated~=1.2.7 in c:\users\pitma\appdata\local\programs\python\python37\lib\site-packages (from berserk) (1.2.9)
+Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in c:\users\pitma\appdata\local\programs\python\python37\lib\site-packages (from requests~=2.20->berserk) (1.25.3)
+Requirement already satisfied: chardet<4,>=3.0.2 in c:\users\pitma\appdata\local\programs\python\python37\lib\site-packages (from requests~=2.20->berserk) (3.0.4)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\pitma\appdata\local\programs\python\python37\lib\site-packages (from requests~=2.20->berserk) (2019.11.28)
+Requirement already satisfied: idna<3,>=2.5 in c:\users\pitma\appdata\local\programs\python\python37\lib\site-packages (from requests~=2.20->berserk) (2.8)
+Requirement already satisfied: wrapt<2,>=1.10 in c:\users\pitma\appdata\local\programs\python\python37\lib\site-packages (from deprecated~=1.2.7->berserk) (1.12.1)
+Installing collected packages: berserk
+Successfully installed berserk-0.8.0
